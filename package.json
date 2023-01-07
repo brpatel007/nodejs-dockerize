@@ -1,0 +1,7 @@
+{
+  "name": "nodejs-dockerize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bhavendra Patel <patelbhavendra007@gmail.com>",
+  "license": "MIT"
+}
