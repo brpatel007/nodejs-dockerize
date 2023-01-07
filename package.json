@@ -3,5 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Bhavendra Patel <patelbhavendra007@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.13.0"
+  }
 }
